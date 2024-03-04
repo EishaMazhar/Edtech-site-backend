@@ -2,3 +2,7 @@
 
 
 Built with fast API
+
+Components:
+- Teacher
+- Course
